@@ -21,4 +21,4 @@ class Solution(object):
         return result
 
         # List comprehension version
-        return [True if candies[i] + extraCandies >= kid_max else False for i in range(len(candies))]
+        # return [True if candies[i] + extraCandies >= kid_max else False for i in range(len(candies))]
