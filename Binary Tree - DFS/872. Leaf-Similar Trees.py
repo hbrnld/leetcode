@@ -6,6 +6,7 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+
 class Solution(object):
     def leafSimilar(self, root1, root2):
         """
